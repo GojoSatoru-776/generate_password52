@@ -6,6 +6,10 @@ To install, type in PowerShell:
 ```shell
 pip install generate_password52
 ```
+end: 
+```shell
+pip install random
+```
 
 
 
