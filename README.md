@@ -16,5 +16,5 @@ pip install random
 ## **Set up a library for *corrective* work**
 Import each module separately:
 ```python
-from generate_password52 import password
+from generate_password52 import *
 ```
