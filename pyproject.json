@@ -1,0 +1,6 @@
+{
+    "name": "network_cop",
+    "version": "1.0.0",
+    "description": "network_cop is a tool for checking network ports, websites, and more.",
+    "author": "Lev Dobriy"
+}

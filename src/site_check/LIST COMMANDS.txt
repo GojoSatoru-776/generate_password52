@@ -1,0 +1,2 @@
+back - return to home
+rest - restart script
